@@ -43,8 +43,8 @@
 ![image](https://github.com/SAKTHISWAR/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/10.png)
 ![image](https://github.com/SAKTHISWAR/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/11.png)
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
